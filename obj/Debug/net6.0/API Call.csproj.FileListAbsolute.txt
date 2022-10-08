@@ -1,0 +1,15 @@
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.csproj.AssemblyReference.cache
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.AssemblyInfoInputs.cache
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.AssemblyInfo.cs
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\CSharpPlayground\API Call\bin\Debug\net6.0\API Call.exe
+D:\Documents\Projects\CSharpPlayground\API Call\bin\Debug\net6.0\API Call.deps.json
+D:\Documents\Projects\CSharpPlayground\API Call\bin\Debug\net6.0\API Call.runtimeconfig.json
+D:\Documents\Projects\CSharpPlayground\API Call\bin\Debug\net6.0\API Call.dll
+D:\Documents\Projects\CSharpPlayground\API Call\bin\Debug\net6.0\API Call.pdb
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.dll
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\refint\API Call.dll
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.pdb
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\API Call.genruntimeconfig.cache
+D:\Documents\Projects\CSharpPlayground\API Call\obj\Debug\net6.0\ref\API Call.dll
